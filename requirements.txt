@@ -13,3 +13,5 @@ requests==2.23.0
 simple_salesforce==1.0.0
 pytz==2020.1
 crontab==0.22.6
+
+flask-appbuilder>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
